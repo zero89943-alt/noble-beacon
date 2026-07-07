@@ -1,0 +1,13 @@
+{
+  "packet_id": "string",
+  "created_utc": "iso8601 datetime",
+  "persona": "string",
+  "path": "Wayfarer | Seed-Bearer | Scribe | Witness | Root Cartographer | Lanternwright | Glyphwright | Gamewright | Dicewright | Ward-Keeper | Grove-Keeper | Future Witness | River Steward",
+  "type": "Source Card | Critique | Correction | Playtest | Game Rule | Glyph/Symbol | Translation | Warding Note | Question",
+  "status_guess": "[A] | [IN] | [IM] | [PR]",
+  "summary": "string",
+  "source": "string",
+  "risks": "string",
+  "consent": "string",
+  "archive_firewall": "No archive update without ReKai approval"
+}
