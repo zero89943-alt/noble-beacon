@@ -1,0 +1,43 @@
+title: "Introduce Yourself"
+labels: ["volunteer", "welcome"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Welcome, Steward
+        Noble Beacon grows through voluntary contribution. There is no hierarchy of importance — only different kinds of care. Introduce yourself so we know how to support your path.
+  - type: textarea
+    id: greeting
+    attributes:
+      label: "Who are you?"
+      description: "Share as much or as little as you like. A name, a pseudonym, or just a greeting."
+    validations:
+      required: true
+  - type: dropdown
+    id: track
+    attributes:
+      label: "Which track interests you most?"
+      options:
+        - "Browser Extension — Privacy-first discovery tool"
+        - "Lumen Mesh — Off-grid LoRa communication"
+        - "Shade Key — Physical authentication hardware"
+        - "Nexus Core — Archive engine and Source Ledger"
+        - "Vibe Pods — Sovereign E-ink devices"
+        - "Ether Education — Free learning protocol"
+        - "Games & Simulations — Fe'Re'Kai'Ri"
+        - "Language & Glyph — Fe'Kai constructed language"
+        - "Documentation & Writing"
+        - "Art & Design"
+        - "I'm not sure yet — just exploring"
+    validations:
+      required: true
+  - type: textarea
+    id: skills
+    attributes:
+      label: "What skills do you bring?"
+      description: "Programming, design, writing, hardware, teaching, music, gardening — all are welcome."
+  - type: textarea
+    id: question
+    attributes:
+      label: "What question brought you here?"
+      description: "What drew you to this project? What are you looking for?"

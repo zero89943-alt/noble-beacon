@@ -1,0 +1,71 @@
+name: "Seed Contribution"
+description: "Offer a seed — a new idea, document, critique, or proposal for the archive."
+title: "[SEED] "
+labels: ["seed", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Offer a Seed
+        Every contribution must identify itself. The Archive Firewall ensures nothing enters without human review.
+        *"Let the seed be found, but let the ledger be plain."*
+  - type: dropdown
+    id: type
+    attributes:
+      label: Contribution Type
+      options:
+        - "[A] Archive — Verified knowledge or established fact"
+        - "[IN] Inference — Logical conclusion drawn from archive material"
+        - "[IM] Imagination — Creative exploration or speculative design"
+        - "[PR] Proposal — A specific change to existing systems"
+        - "[CR] Critique — Constructive challenge to existing material"
+    validations:
+      required: true
+  - type: dropdown
+    id: track
+    attributes:
+      label: Development Track
+      options:
+        - "Browser Extension"
+        - "Lumen Mesh Network"
+        - "Shade Key (Physical Auth)"
+        - "Nexus Core (Archive Engine)"
+        - "Vibe Pod Devices"
+        - "Ether Education Protocol"
+        - "Archive Content"
+        - "Games & Simulations"
+        - "Language & Glyph"
+        - "Civic Design"
+        - "Other"
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: "What is this seed? One paragraph."
+    validations:
+      required: true
+  - type: textarea
+    id: reasoning
+    attributes:
+      label: Reasoning
+      description: "Why does this matter? What principle does it serve?"
+    validations:
+      required: true
+  - type: textarea
+    id: risks
+    attributes:
+      label: Risks & Considerations
+      description: "What could go wrong? What hidden power might this create?"
+  - type: checkboxes
+    id: covenant
+    attributes:
+      label: Steward's Covenant
+      options:
+        - label: "I confirm this contribution is my own work or properly sourced."
+          required: true
+        - label: "I understand nothing enters the archive without human review."
+          required: true
+        - label: "I accept the Code of Conduct and Noble Constant."
+          required: true

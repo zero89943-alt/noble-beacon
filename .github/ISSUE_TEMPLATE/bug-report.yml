@@ -1,0 +1,36 @@
+name: "Bug Report"
+description: "Report a technical issue with the browser extension, mesh firmware, or documentation."
+title: "[BUG] "
+labels: ["bug", "needs-triage"]
+body:
+  - type: dropdown
+    id: track
+    attributes:
+      label: Affected Track
+      options:
+        - "Browser Extension"
+        - "Lumen Mesh Network"
+        - "Shade Key"
+        - "Nexus Core"
+        - "Vibe Pods"
+        - "Documentation"
+        - "Website"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: "What happened? What did you expect?"
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to Reproduce
+      description: "How can we see this bug?"
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: "OS, browser, hardware version, firmware version, etc."
