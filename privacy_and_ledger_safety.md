@@ -11,11 +11,13 @@ Unlike traditional EULAs that harvest data, the Noble Beacon EULA is a **Mutual 
 | **Data Rights** | Provider owns/monetizes data. | User has absolute sovereignty over data. |
 | **Updates** | Forced, often invasive. | Opt-in, human-in-the-loop verification. |
 | **Termination** | Provider can revoke access. | User can exit with full data portability. |
+| **Ownership** | License only, no resale. | Real ownership, right to resale/transfer. |
 
 ### Key Clauses for the Noble Beacon
 *   **The Non-Extraction Clause**: The software is prohibited from transmitting any personal metadata or ledger content to external servers without explicit, per-event human approval.
 *   **The Right to Repair & Fork**: Users are legally and technically empowered to modify the software to suit their sanctuary's needs.
 *   **The Auditability Mandate**: All ledger protocols must be open-source and inspectable to ensure no "hidden masters" or backdoors exist.
+*   **The Digital Ownership & Resale Mandate**: All digital assets (seeds, artifacts, software modules) are owned by the steward. The EULA explicitly grants the right to resale or transfer these assets via the **Source Ledger**, ensuring digital items have real-world value and permanence.
 
 ## 2. Ledger Safety Precautions
 To maintain the **Anti-Panopticon** design, the following safety measures are hard-coded into the **Shade** module.
