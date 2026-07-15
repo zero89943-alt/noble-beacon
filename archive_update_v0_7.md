@@ -11,6 +11,7 @@ The Noble Beacon has evolved into a multi-layered ecosystem designed for long-te
 | **Economic** | **Platinum Standard** | A commodity-backed stewardship model replacing virtual currency. |
 | **Social** | **Resonance Protocols** | Proximity-first human interaction driven by infrasound alignment. |
 | **Educational** | **Ether Protocol** | Free, decentralized education delivered via the sovereign stack. |
+| **Privacy** | **Sovereign EULA** | A mutual defense pact ensuring data sovereignty and ledger safety. |
 
 ## 2. Technical Architecture: The Sovereign Stack
 The architecture is built on the principle of **Device Sovereignty**, ensuring that every tool in the civic nervous system is inspectable, repairable, and free of hidden masters.
@@ -30,7 +31,10 @@ Education is no longer a centralized service but a **Living Commons**. The Ether
 | **Memory** | Spaced Repetition and Cultural Heritage | *House of Remembering* |
 | **Resilience** | Craft, Repair, and Land Stewardship | *Right-to-Repair Manuals* |
 
-## 4. Strategic Priorities and Roadmap
+## 4. Privacy and Ledger Safety
+The **Shade** module is governed by a **Sovereign EULA**, which replaces traditional data-harvesting agreements with a **Mutual Defense Pact**. Key safety features include **Zero-Knowledge Proofs**, **Off-Chain Personal Data**, and the **Panic Protocol** for instant data erasure. All ledger operations are designed for **Air-Gap Compatibility**, ensuring that the most sensitive archives remain beyond the reach of the panopticon.
+
+5. Strategic Priorities and Roadmap
 The following priorities have been identified as critical for the next phase of the project's launch and resilience.
 
 ### Immediate Hardware & Software Priorities
