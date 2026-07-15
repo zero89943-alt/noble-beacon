@@ -106,6 +106,7 @@ noble-beacon/
 ├── technical_appraisal.md                 # Agent appraisal of the sovereign stack
 ├── privacy_and_ledger_safety.md           # Sovereign EULA, ZKPs, Panic Protocol
 ├── digital_ownership_resale_rights.md     # True ownership, resale, Source Ledger
+| `nb_os_specification.md` | NB-OS: Noble Beacon Operating System — Three-tier Linux distribution (ESP32→Desktop) with EROFS real-time decompression, CAVA visualizer, org-mode engine, LoRa mesh, and Shade Key authentication |
 ├── ether_education_protocol.md            # Free education via the Ether
 ├── platinum_standard_doctrine.md          # Commodity-backed economic model
 ├── genome_disclosure_plan.md              # Progressive revelation & Lantern Doors
