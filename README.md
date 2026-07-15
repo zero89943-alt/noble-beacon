@@ -111,6 +111,7 @@ noble-beacon/
 ├── genome_disclosure_plan.md              # Progressive revelation & Lantern Doors
 ├── presentation_script.md                 # GitHub launch presentation script
 ├── testing_notes.md                       # QA findings and deployment notes
+├── right_to_repair.md                     # Sovereign Right to Repair doctrine
 │
 ├── archive_update_v0_3.md                 # Archive v0.3: GPKD, TikTok integration
 ├── archive_update_v0_4.md                 # Archive v0.4: Recovery Codex, Council of 13
