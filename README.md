@@ -96,43 +96,41 @@ All contributions follow the **Archive Firewall** protocol:
 
 ```
 noble-beacon/
-├── README.md                          # You are here
-├── CONTRIBUTING.md                    # How to contribute (detailed)
-├── CODE_OF_CONDUCT.md                 # Community standards
-├── ROADMAP.md                         # Strategic priorities and timeline
-├── LICENSE-DECISION-NEEDED.md         # License discussion
+├── README.md                              # You are here
+├── CONTRIBUTING.md                        # How to contribute (detailed)
+├── CODE_OF_CONDUCT.md                     # Community standards
+├── ROADMAP.md                             # Strategic priorities and timeline
+├── LICENSE-DECISION-NEEDED.md             # License discussion
 │
-├── docs/                              # Core documentation
-│   ├── architecture.md                # Full technical architecture
-│   ├── digital_ownership.md           # EULA & resale rights framework
-│   ├── ether_education.md             # Free education protocol
-│   ├── privacy_and_ledger_safety.md   # Privacy & ledger precautions
-│   └── platinum_standard.md           # Economic model
+├── core_module_architecture.md            # CNS modules: Nexus, Lumen, Vibe, Beacon, Shade
+├── technical_appraisal.md                 # Agent appraisal of the sovereign stack
+├── privacy_and_ledger_safety.md           # Sovereign EULA, ZKPs, Panic Protocol
+├── digital_ownership_resale_rights.md     # True ownership, resale, Source Ledger
+├── ether_education_protocol.md            # Free education via the Ether
+├── platinum_standard_doctrine.md          # Commodity-backed economic model
+├── genome_disclosure_plan.md              # Progressive revelation & Lantern Doors
+├── presentation_script.md                 # GitHub launch presentation script
+├── testing_notes.md                       # QA findings and deployment notes
 │
-├── tracks/                            # Development tracks
-│   ├── browser-extension/             # Beacon Browser Extension
-│   │   └── README.md
-│   ├── mesh-network/                  # Lumen LoRa Mesh
-│   │   └── README.md
-│   ├── shade-key/                     # Physical Authentication Key
-│   │   └── README.md
-│   ├── vibe-pods/                     # E-ink Pod Devices
-│   │   └── README.md
-│   └── nexus-core/                    # Archive Engine & Source Ledger
-│       └── README.md
+├── archive_update_v0_3.md                 # Archive v0.3: GPKD, TikTok integration
+├── archive_update_v0_4.md                 # Archive v0.4: Recovery Codex, Council of 13
+├── archive_update_v0_5.md                 # Archive v0.5: Fe'Kai roots, Base-60
+├── archive_update_v0_7.md                 # Archive v0.7: Living Synthesis
 │
-├── archive/                           # The Fe'Kai Grand Archive
-│   ├── volumes/                       # The Seven Volumes
-│   └── seeds/                         # Community seed contributions
+├── tracks/                                # Development tracks
+│   ├── browser-extension/README.md        # Beacon Browser Extension
+│   ├── lumen-mesh/README.md               # Lumen LoRa Mesh Network
+│   ├── shade-key/README.md                # Physical Authentication Key
+│   ├── vibe-pods/README.md                # E-ink Pod Devices
+│   ├── nexus-core/README.md               # Archive Engine & Source Ledger
+│   └── ether-education/README.md          # Free Education Protocol
 │
-└── .github/                           # GitHub community files
+└── .github/                               # GitHub community files
     ├── ISSUE_TEMPLATE/
-    │   ├── seed_contribution.md
-    │   ├── bug_report.md
-    │   └── feature_proposal.md
-    ├── PULL_REQUEST_TEMPLATE.md
+    │   ├── seed-contribution.yml
+    │   └── bug-report.yml
     └── DISCUSSION_TEMPLATE/
-        └── volunteer_introduction.md
+        └── volunteer-introduction.yml
 ```
 
 ---

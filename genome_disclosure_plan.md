@@ -7,7 +7,7 @@ We are moving away from fragile, service-based storage to **Localized Permanence
 
 ### A. The Medium: Hybrid ROM/Flash Cartridge
 To handle "everything," the medium utilizes a **Hybrid ROM/Flash Architecture** for speed, security, and durability.
-*   **ROM Sector**: Factory-burned base image; immutable and cannot be altered.
+*   **ROM Sector**: Factory-burned base image; immutable and cannot be altered. Holds the core OS and the "First Archive."
 *   **Flash Partition**: Secure EEPROM for **Delta-Patching** (append-only) and encrypted local state.
 
 ### B. The Format: Glass-Phase Kinetic Disc (GPKD)
@@ -49,5 +49,20 @@ Practical infrastructure for immediate relief and long-term sustainability.
 Anchored directly to the **vagus nerve** or brainstem to regulate the autonomic nervous system.
 *   **Perpetual Harmony**: Acts as an immutable "metronome" to synchronize heart rate variability and neural rhythms through **entrainment**.
 *   **Dynamic Adaptation**: A biomimetic fluid layer (Tier 2: Liquid Colloids) that regulates the SNS during spikes in stress or trauma.
+
+## 5. Disclosure Architecture: The Lantern Doors
+We use the **Lantern Architecture** for hidden lore, utilizing 10 "Hidden Doors" and progressive revelation.
+
+### The 10 Hidden Doors:
+1.  **Lantern Keeper's Door**: Guidance without authority.
+2.  **Relation Door**: The foundational grammar of FE, RE, KAI, RI.
+3.  **Four Cadences Door**: How we speak (Ka'Ven, Re'Mai, Sai'Tol, Kai'Lum).
+4.  **Repair Door**: Healing broken things; the next honest action.
+5.  **Observer's Door**: The responsibility of the "Helpful Eye."
+6.  **Sovereignty Door**: Standing without dominating (Table Agency).
+7.  **Continuity Door**: Living Measure; time and future generations.
+8.  **Mystery Door**: Quantum Humility; honesty about unknowing.
+9.  **Beauty Door**: Aesthetics as ethics; the Noble Beacon theme.
+10. **DO Door**: Philosophy into action; the primal maxim.
 
 > "The machine carries many voices. The human chooses the song. The archive ensures the silence is honest."
